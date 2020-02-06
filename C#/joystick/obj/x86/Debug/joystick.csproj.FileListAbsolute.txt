@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2010\Projects\joystick\joystick\bin\Debug\joystick.exe
+c:\users\user\documents\visual studio 2010\Projects\joystick\joystick\bin\Debug\joystick.pdb
+c:\users\user\documents\visual studio 2010\Projects\joystick\joystick\obj\x86\Debug\joystick.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\joystick\joystick\obj\x86\Debug\joystick.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\joystick\joystick\obj\x86\Debug\joystick.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\joystick\joystick\obj\x86\Debug\joystick.exe
+c:\users\user\documents\visual studio 2010\Projects\joystick\joystick\obj\x86\Debug\joystick.pdb
